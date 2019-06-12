@@ -1,1 +1,1 @@
-# cs-vtmit-practices
+# CS VT-MIT Practices
