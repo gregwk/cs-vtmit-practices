@@ -1,5 +1,5 @@
 # Introduction
-This document provides computer science instructors at Virginia Tech with a set of practices for developing and teaching online courses. These practices have been found to work for other instructors who have developed and taught online, particularly in the MIT program.
+This document provides computer science instructors in Virginia Tech's MIT program with a set of practices that have been found to work for others. Though instructors who have developed and taught online, particularly in the MIT program.
 
 ## Overview
 - [Know what the MIT Program is](./overview/mit-info.md)
