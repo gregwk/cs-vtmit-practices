@@ -15,7 +15,7 @@ There are 3 business-related core courses and 3 technical-related cores. Most MI
 
 CS5044 is an important course. Not only is it a core course, but it also serves as a gateway course (a prerequisite) to all other CS courses.
 
-![CS MIT course dependencies](/images/cs-dependencies.jpeg)
+![CS MIT course dependencies](/assets/images/cs-dependencies.jpeg)
 
 We do recommend that students take CS5704 before taking CS5244 or CS5254, but strictly speaking it is not required.
 
