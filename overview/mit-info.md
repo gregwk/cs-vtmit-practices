@@ -1,11 +1,22 @@
 # Know what the MIT Program is
 
-The Master's of Information Technology program is a 100% asynchronous online program that offers graduate-level courses in business, ECE, and computer science.
+The Master's of Information Technology program is a 100% asynchronous online program that offers graduate-level courses in business, ECE, and computer science. It's been around since 2002, and it officially made the change from synchronous to asynchronous in 2015.
 
-It has been around since 2002, and it officially made the change from synchronous to asynchronous in 2015.
+Students have to take 4 core courses and 7 elective courses to complete a degree. All of the courses are 3 credits each, so thats 33 credits in all. The core courses are:
 
-From the [VT MIT web site](https://vtmit.vt.edu/academics/plan-your-study.html):
+- ACIS 5504 Information Systems Design & Database Concepts
+- BIT 5594 Web-Based Applications & Electronic Commerce
+- MGT 5804 Strategic Leadership in Technology-Based Organizations
+- CS 5044 Object-Oriented Programming with Java
+- CS 5704 Software Engineering
+- ECE 5484 Fundamentals of Computer Systems
 
-> To earn a Master of Information Technology degree at Virginia Tech, students must complete 11 courses — four core (foundation) courses and seven elective courses — for a total of 33 credit hours.  By choosing the appropriate courses, master's students can also earn a graduate certificate in one of six IT specialities as part of their degree program.
+There are 3 business-related core courses and 3 technical-related cores. Most MIT students have either a business or technical background, which means they will have to take at least one course out of their comfort zone.
 
-The program serves a wide variety of students, but is geared toward working professionals who want to get their Master's degree while they continue to work full-time. Because the program offers both business and technical courses, the variance in student comfort-level with a particular topic is significantly greater than a typical graduate course. You may have students who are experienced in web development in the same course as students who struggle with using basic data structures. **Most MIT students - even those involved in software development - do not even have the equivalent of a computer science minor.** MIT students tend to have less time to spend on projects, but they also tend to be more mature and better at managing their time.
+CS5044 is an important course. Not only is it a core course, but it also serves as a gateway course (a prerequisite) to all other CS courses.
+
+![CS MIT course dependencies](/images/cs-dependencies.jpeg)
+
+We do recommend that students take CS5704 before taking CS5244 or CS5254, but strictly speaking it is not required.
+
+CS5704 is special because it is the only MIT course that is also taught as a face-to-face course for CS major. In general, only MIT students can take the online version of the course and only CS students can take the face-to-face version of the course.
