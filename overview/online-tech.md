@@ -1,4 +1,4 @@
-# Know the online technologies that VT has access to
+# Know the online technologies VT has access to
 
 Virginia Tech has access to a wide variety of online learning tools and technologies, including:
 
