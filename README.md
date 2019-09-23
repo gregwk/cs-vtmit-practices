@@ -5,8 +5,8 @@ This document provides computer science instructors in Virginia Tech's online Ma
 - [Know what the MIT Program is](./overview/mit-info.md)
 - [Know what kinds of students the MIT Program has](./overview/mit-students.md)
 - [Know computer science's role in the MIT Program](./overview/cs-in-mit.md)
-- [Know what the MEng Program is](./overview/meng-info.md)
-- [Know what kinds of students the MEng Program has](./overview/meng-students.md)
+- [Know what the MEng Degree is](./overview/meng-info.md)
+- [Know what kinds of students the MEng degree has](./overview/meng-students.md)
 - [Know the online technologies that VT has access to](./overview/online-tech.md)
 
 ## Course Design
