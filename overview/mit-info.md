@@ -12,11 +12,3 @@ Students have to take 4 core courses and 7 elective courses to complete a degree
 - ECE 5484 Fundamentals of Computer Systems
 
 There are 3 business-related core courses and 3 technical-related cores. Most MIT students have either a business or technical background, which means they will have to take at least one course out of their comfort zone.
-
-CS5044 is an important course. Not only is it a core course, but it also serves as a gateway course (a prerequisite) to all other CS courses.
-
-![CS MIT course dependencies](../assets/images/cs-dependencies-3.jpeg)
-
-We do recommend that students take CS5704 before taking CS5244 or CS5254, but strictly speaking it is not required.
-
-CS5704 is special because it is the only MIT course that is also taught as a face-to-face course for CS major. In general, only MIT students can take the online version of the course and only CS students can take the face-to-face version of the course.
