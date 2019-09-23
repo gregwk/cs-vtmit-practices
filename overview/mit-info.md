@@ -1,4 +1,4 @@
-< [Home](/cs-vtmit-practices/) | [MIT Students](/cs-vtmit-practices/overview/mit-students.md) > 
+< [Home](/cs-vtmit-practices/) | [MIT Students](mit-students.md) > 
 
 # Know what the MIT Program is
 
