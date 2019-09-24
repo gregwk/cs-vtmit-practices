@@ -36,9 +36,6 @@ This document provides computer science instructors in Virginia Tech's online Ma
 
 ## Live Q&A Sessions
 
-## Good Course Projects
+## Course Projects
 
-## Handling GHS Violations
-
-## Avoiding Cheating
-
+## GHS Violations
