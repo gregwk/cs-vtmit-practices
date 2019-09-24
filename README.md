@@ -21,7 +21,7 @@ This document provides computer science instructors in Virginia Tech's online Ma
 - [Use Zoom for live Q&A sessions](./online-tech/zoom-for-live-qa.html)
 - [Use Piazza (not Canvas) for Q&A](./online-tech/piazza-for-qa.html)
 - [Use Canvas (not Piazza) for discussion topics](./online-tech/canvas-for-discussion.html)
-- [Use Web-CAT to automatically grade code](./online-tech/web-cat-for-grading-code.html)
+- [Use Web-CAT to automatically grade code](./online-tech/webcat-for-grading-code.html)
 - [Use Camtasia to create quality lecture videos](./online-tech/use-camtasia-for-lectures.html)
 - [Use Snagit for quick screen captures](./online-tech/snagit-for-screen-capture.html)
 - [Consider using Safari Books Online instead of a textbook](./online-tech/safari-vs-textbook.html)
