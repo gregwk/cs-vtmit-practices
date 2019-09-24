@@ -10,12 +10,12 @@ This document provides computer science instructors in Virginia Tech's online Ma
 - [Know the online technologies that VT has access to](./overview/online-tech.md)
 
 ## Course Design
-- [Go through TLOS for MIT course design](./course-design/course-design.md)
-- [Go through MIT for MIT course design *funding*](./course-design/course-design-funding.md)
-- [Check with MIT or CS for latest information on course *refresh*](./course-design/course-refresh.md)
-- [Use a standard site design for MIT courses](./course-design/site-design.md)
-- [Use a standard syllabus for SARA compliance](./course-design/syllabus.md)
-- [Emphasize a few extras in your syllabus for CS courses](./course-design/syllabus-extras.md)
+- [Go through TLOS for MIT course design](./course-design/course-design.html)
+- [Go through MIT for MIT course design *funding*](./course-design/course-design-funding.html)
+- [Check with MIT or CS for latest information on course *refresh*](./course-design/course-refresh.html)
+- [Use a standard site design for MIT courses](./course-design/site-design.html)
+- [Use a standard syllabus for SARA compliance](./course-design/syllabus.html)
+- [Emphasize a few extras in your syllabus for CS courses](./course-design/syllabus-extras.html)
 
 ## Online Technologies
 - [Use Zoom for live Q&A sessions](./online-tech/zoom-for-live-qa.md)
