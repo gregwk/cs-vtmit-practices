@@ -1,3 +1,5 @@
+[<i class="far fa-arrow-alt-circle-left"></i> MENG Students](meng-students.html) | [Home <i class="fas fa-home"></i>](/cs-vtmit-practices/)
+
 # Know the online technologies VT has access to
 
 Virginia Tech has access to a wide variety of online learning tools and technologies, including:
