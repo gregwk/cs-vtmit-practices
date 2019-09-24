@@ -1,3 +1,5 @@
+[<i class="far fa-arrow-alt-circle-left"></i> MIT STudents](mit-students.html) | [MENG Info <i class="far fa-arrow-alt-circle-right"></i>](meng-info.html)
+
 # Know Computer Science's Role in the MIT Program
 
 As of Fall 2019, the CS department offers 7 courses in the MIT program. CS5044 (Object-Oriented Programming with Java) is an important course. Not only is it a core course, but it also serves as a gateway course (a prerequisite) to all other CS courses.
