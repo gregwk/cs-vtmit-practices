@@ -1,3 +1,5 @@
+[<i class="far fa-arrow-alt-circle-left"></i> MENG Info](meng-info.html) | [Online Tech <i class="far fa-arrow-alt-circle-right"></i>](online-tech.html)
+
 # Know what kinds of students the MEng degree has
 
 Because of our ambitious goals for increasing the number of Master students we graduate, the MEng degree is designed to appeal to as many potential students as possible. We are hoping it will be appealing to international students who want to complete a CS Master degree at an accelerated pace; and that it will also be appealing to working professionals who want to take evening courses and online courses while still working a full-time job.
