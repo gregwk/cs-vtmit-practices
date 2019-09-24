@@ -1,4 +1,4 @@
-< [Home](/cs-vtmit-practices/) | [MIT Students](mit-students.html) > 
+<i class='fa home'></i> [Home](/cs-vtmit-practices/) | [MIT Students](mit-students.html) <i class='fa arrow-alt-circle-right'></i> 
 
 # Know what the MIT Program is
 
