@@ -1,4 +1,4 @@
-[<i class="far fa-arrow-alt-circle-left"></i> CS in MIT](cs-in-mit.html) | [MENG Student <i class="far fa-arrow-alt-circle-right"></i>](meng-students.html)
+[<i class="far fa-arrow-alt-circle-left"></i> CS in MIT](cs-in-mit.html) | [MENG Students <i class="far fa-arrow-alt-circle-right"></i>](meng-students.html)
 
 # Know what the MEng Degree is
 
