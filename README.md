@@ -36,6 +36,8 @@ This document provides computer science instructors in Virginia Tech's online Ma
 
 ## Live Q&A Sessions
 
+## Homeworks, Quizzes, and Exams
+
 ## Course Projects
 
 ## GHS Violations
