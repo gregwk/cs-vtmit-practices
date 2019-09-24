@@ -1,3 +1,5 @@
+[<i class="far fa-arrow-alt-circle-left"></i> MIT Info](mit-info.html) | [CS in MIT <i class="far fa-arrow-alt-circle-right"></i>](cs-in-mit.html) 
+
 # Know what kinds of students the MIT Program has
 
 Because the MIT program is a collaboration between business and CS/engineering, we get a wide variety of students in CS courses. This is one of the reasons we mandate CS5044 (Object-Oriented Programming with Java) as a gateway course (base requirement) for all other CS courses. Technically, we expect students to have some computer programming experience even before they take CS5044. Even after students have taken CS5044, there is still a significant variation between those who are comfortable with programming and those who are not. One of the benefits of Piazza - the online Q&A discussion site - is that it allows students to *answer* questions that other students ask, and you as an instructor have the ability to endorse those answers.
