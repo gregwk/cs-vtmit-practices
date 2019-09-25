@@ -16,5 +16,5 @@ Here are some suggestions for creating good lecture videos:
   * ask the student to pause the video and think about a certain problem
 * Edit out mistakes or annoying "ums" in post-production
 * Put your videos on YouTube
-  * they have great captioning software
-  * student are familar with the controls (for example, the can play the video at 1.5x)
+  * it has great captioning software
+  * students are familar with the format and controls
