@@ -2,4 +2,4 @@
 
 # For video lectures, use headshots instead of picture-in-picture
 
-[Place text here]
+If you are creating a lecture video with slides, for example, don't put a picture of yourself talking in the corner of the slide. It takes the students concentration from the material on the slide and 
