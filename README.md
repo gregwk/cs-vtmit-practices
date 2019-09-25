@@ -35,9 +35,21 @@ This document provides computer science instructors in Virginia Tech's online Ma
 - [Think hard about change management in videos](./video-recording/video-change-management.html)
 
 ## Live Q&A Sessions
+- [Do not use live Q&A sessions for Q&A](./qa-sessions/always-prepare.html)
+- [Consider using live Q&A sessions to flip your classroom](./qa-sessions/flip-your-classroom.html)
+- [Do not make a distinction between synchronous and asynchronous online](./qa-sessions/synch-vs-asynch.html)
 
 ## Homeworks, Quizzes, and Exams
+- [Have homeworks and/or quizzes every week](./assessments/hw-and-quizzes.html)
+- [Make quizzes and exams timed](./assessments/timed-quizzes.html)
+- [Consider giving 2 chances to take a quiz](./assessments/mutli-chance-quiz.html)
+- [Advocate for resources to proctor exams](./assessments/exam-proctoring.html)
+- [Remember special needs students when you post a quiz](./assessments/special-needs.html)
 
 ## Course Projects
 
 ## GHS Violations
+
+## Course Scalability
+
+## Education Research
