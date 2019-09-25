@@ -10,7 +10,7 @@ This document provides computer science instructors in Virginia Tech's online Ma
 - [Know the online technologies that VT has access to](./overview/online-tech.html)
 
 ## Course Design
-- [Go through TLOS for MIT course design](./course-design/course-design.html)
+- [Go through TLOS for online course design](./course-design/course-design.html)
 - [Go through MIT for MIT course design *funding*](./course-design/course-design-funding.html)
 - [Check with MIT or CS for latest information on course *refresh*](./course-design/course-refresh.html)
 - [Use a standard site design for MIT courses](./course-design/site-design.html)
