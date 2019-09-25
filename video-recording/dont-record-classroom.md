@@ -13,5 +13,5 @@ Here are some suggestions for creating good lecture videos:
 * If you have slides, keep them simple and use diagrams when possible
 * Make a portion of the video interactive
   * have a short quiz if your software allows it
-  * ask the student to pause the video and think about a certain question
+  * ask the student to pause the video and think about a certain problem
 * Edit out mistakes or annoying "ums" in post-production
