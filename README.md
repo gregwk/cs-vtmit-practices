@@ -37,7 +37,7 @@ This document provides computer science instructors in Virginia Tech's online Ma
 ## Live Q&A Sessions
 - [Do not use live Q&A sessions for Q&A](./qa-sessions/always-prepare.html)
 - [Consider using live Q&A sessions to flip your classroom](./qa-sessions/flip-your-classroom.html)
-- [Do not make a distinction between synchronous and asynchronous online](./qa-sessions/synch-vs-asynch.html)
+- [Do not distinguish between synchronous and asynchronous](./qa-sessions/synch-vs-asynch.html)
 
 ## Homeworks, Quizzes, and Exams
 - [Have homeworks and/or quizzes every week](./assessments/hw-and-quizzes.html)
