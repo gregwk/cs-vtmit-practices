@@ -28,8 +28,8 @@ This document provides computer science instructors in Virginia Tech's online Ma
 
 ## Creating Video Recordings
 - [Don't record your classroom lectures](./video-recording/dont-record-classroom.html)
-- [For video lectures, use headshots instead of picture-in-picture](./video-recording/use-headshots.html)
-- [For code walkthrough videos, PIP is fine](./video-recording/pip-okay-in-walkthrough.html)
+- [For video lectures, use headshots instead of picture-in-picture](./video-recording/headshots-in-lectures.html)
+- [For code walkthrough videos, PIP is fine](./video-recording/pip-in-walkthroughs.html)
 - [*Always* edit your videos](./video-recording/always-edit-videos.html)
 - [Use a good quality microphone](./video-recording/good-quality-mic.html)
 - [Think hard about change management in videos](./video-recording/video-change-management.html)
