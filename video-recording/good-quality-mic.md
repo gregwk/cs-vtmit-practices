@@ -8,6 +8,8 @@ If you are recording your screen, the video will be fine. When you are talking i
 
 To make sure your audio is good:
 
-* get a good-quality microphone (Blue Yeti or equivalent should is fine)
-* do a sound test before you start your video
+* get a good-quality microphone (Blue Yeti or equivalent should be fine)
+* consider getting a pop shield and a boom arm
+* experiment with different mic positions
+* do a sound test before you start every video
 * listen to your video all the way through before you post it
